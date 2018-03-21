@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <!--for user name -->
+    <string name="Name">Name</string>
+    <!--view for toppings -->
+    <string name="Topping">Toppings</string>
+    <!--View for chocolate -->
+    <string name="Chocolate">Chocolate</string>
+    <!--view for whippedcream-->
+    <string name="whipped_cream">whippedcream</string>
+    <!--view for quantity -->
+    <string name="Quantity">Quantity :</string>
+    <!--view for order -->
+    <string name="order">Order</string>
+    <!--view for thank -->
+    <string name="Thank_you">Thank you</string>
+    <!--for order summarry view-->
+    <string name="Add_whipped_cream">Add whipped cream =</string>
+    <!--for order summarry view-->
+    <string name="Add_chocolate">Add chocolate =</string>
+    <!--for order summarry view-->
+    <string name="quantity">quantity :</string>
+    <!--for order summarry view-->
+    <string name="Total"> Total: $</string>
+
+</resources>
